@@ -4,5 +4,4 @@ This is a sample readme file
 
 Some more text
 
-No problem
-Trouble
+erased and modifed successfully
