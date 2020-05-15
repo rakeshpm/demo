@@ -1,2 +1,4 @@
 #License
  This is a sample license
+
+Apache v3.0
